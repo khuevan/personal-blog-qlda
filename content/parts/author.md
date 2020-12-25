@@ -1,0 +1,5 @@
+---
+title: author
+---
+
+**Nhom QLDA** 
