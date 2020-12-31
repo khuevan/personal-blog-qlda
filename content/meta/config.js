@@ -4,7 +4,7 @@ module.exports = {
   siteTitle: "PersonalBlog - a blog starter for GatsbyJS", // <title>
   shortSiteTitle: "PersonalBlog GatsbyJS Starter", // <title> ending for posts and pages
   siteDescription: "PersonalBlog is a GatsbyJS starter.",
-  siteUrl: "https://qlda-blog-it.netlify.app/blog/",
+  siteUrl: "hhttps://qlda-blog.netlify.app",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
@@ -25,7 +25,7 @@ module.exports = {
   contactEmail: "ntdat.18it3@vku.udn.vn",
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/buixuanthien18it3" },
+    { name: "github", url: "https://github.com/khuevan" },
     { name: "twitter", url: "" },
     { name: "facebook", url: "https://www.facebook.com/khuekvan" }
   ]
