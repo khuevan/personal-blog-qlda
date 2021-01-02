@@ -100,8 +100,8 @@ const Search = props => {
 };
 
 Search.propTypes = {
-  classes: PropTypes.object.isRequired,
-  algolia: PropTypes.object.isRequired
+  classes: PropTypes.object.isRequired
+  // algolia: PropTypes.object.isRequired
 };
 
 export default injectSheet(styles)(Search);
