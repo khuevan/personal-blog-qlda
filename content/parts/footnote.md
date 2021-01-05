@@ -7,4 +7,4 @@ title: footnote
 * delivered by [Netlify](https://www.netlify.com/)
 * photos by [unsplash.com](https://unsplash.com)
  -->
- Design by: IT4A 
+ * Design by: IT4A 

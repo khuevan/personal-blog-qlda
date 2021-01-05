@@ -9,10 +9,10 @@ module.exports = {
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
-  authorName: "Nhom QLDA",
+  authorName: "IT4A Team",
   authorTwitterAccount: "none",
   // info
-  infoTitle: "Nhom QLDA",
+  infoTitle: "IT4A Team",
   infoTitleNote: "personal blog",
   // manifest.json
   manifestName: "PersonalBlog - a blog starter for GatsbyJS",

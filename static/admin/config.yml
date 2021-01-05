@@ -17,8 +17,8 @@ collections:
     fields:
       - { name: title, label: Title }
       - { name: subTitle, label: SubTitle }
-      - { name: category, label: Category required: false }
-      - { name: cover, label: Cover Image, widget: image, required: false, tagname: ""}
+      - { name: category, label: Category, required: false }
+      - { name: cover, label: Cover Image, widget: image, tagname: "" }
       - { name: body, label: Body, widget: markdown }
   - name: page
     label: Page
@@ -30,7 +30,4 @@ collections:
     create: true
     fields:
       - { name: title, label: Title }
-      - { name: subTitle, label: SubTitle }
-      - { name: category, label: Category required: false }
-      - { name: cover, label: Cover Image, widget: image, required: false, tagname: ""}
       - { name: body, label: Body, widget: markdown }
