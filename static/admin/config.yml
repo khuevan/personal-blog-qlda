@@ -12,11 +12,10 @@ collections:
     slug: 'index'
     media_folder: ''
     public_folder: ''
-    path: '{{title}}/index'
+    path: '{{year}}/{{month}}/{{day}}--{{title}}/index'
     create: true
     fields:
       - { name: title, label: Title }
-      - { name: date, label: Date, widget: date }
       - { name: subTitle, label: SubTitle }
       - { name: category, label: Category }
       - { name: cover, label: Cover Image, widget: image, required: false, tagname: ""}
