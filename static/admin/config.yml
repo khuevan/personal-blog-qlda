@@ -19,6 +19,6 @@ collections:
       - { name: date, label: Date, widget: date }
       - { name: subTitle, label: SubTitle }
       - { name: category, label: Category }
-      - { name: image, label: Cover Image, widget: image, required: false, tagname: ""}
+      - { name: cover, label: Cover Image, widget: image, required: false, tagname: ""}
       - { name: body, label: Body, widget: markdown }
       
