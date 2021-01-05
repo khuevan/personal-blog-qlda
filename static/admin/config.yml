@@ -18,4 +18,3 @@ collections:
       - { name: "image", label: "Cover Image", widget: "image", required: false, tagname: ""}
       - { name: body, label: Body, widget: markdown }
       
-
