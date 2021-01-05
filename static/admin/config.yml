@@ -6,13 +6,15 @@ media_folder: content/assets
 public_folder: ../assets
 
 collections:
-  - name: bloga
+  - name: blog
     label: Blog
     folder: content/posts/
     create: true
     fields:
-      - { name: path, label: Path }
       - { name: date, label: Date, widget: date }
       - { name: title, label: Title }
-      - { name: description, label: Description }
+      - { name: subTitle, label: SubTitle }
+      - { name: category, label: Dategory }
       - { name: body, label: Body, widget: markdown }
+      - { name: cover, label: Cover Image,  widget: image, required: false }
+
