@@ -2,4 +2,4 @@
 title: author
 ---
 
-**Nhom QLDA** 
+**IT4A Team** 

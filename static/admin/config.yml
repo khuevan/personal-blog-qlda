@@ -20,4 +20,17 @@ collections:
       - { name: category, label: Category required: false }
       - { name: cover, label: Cover Image, widget: image, required: false, tagname: ""}
       - { name: body, label: Body, widget: markdown }
-      
+  - name: page
+    label: Page
+    folder: content/pages
+    slug: 'index'
+    media_folder: ''
+    public_folder: ''
+    path: '{{title}}/index'
+    create: true
+    fields:
+      - { name: title, label: Title }
+      - { name: subTitle, label: SubTitle }
+      - { name: category, label: Category required: false }
+      - { name: cover, label: Cover Image, widget: image, required: false, tagname: ""}
+      - { name: body, label: Body, widget: markdown }

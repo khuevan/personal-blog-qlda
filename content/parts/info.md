@@ -2,4 +2,8 @@
 title: info
 ---
 
-Thien, Dat, Sy, Van chao cac ban :)
+Bùi Xuân Thiện
+Bùi Văn Sỹ
+Nguyễn Thành Đạt
+Nguyễn Đặng Khuê Văn
+
