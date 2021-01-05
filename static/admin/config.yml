@@ -15,6 +15,7 @@ collections:
       - { name: title, label: Title }
       - { name: subTitle, label: SubTitle }
       - { name: category, label: Dategory }
+      - { name: 'cover', label: 'Cover Image',  widget: 'image', required: false }
       - { name: body, label: Body, widget: markdown }
-      - { name: cover, label: Cover Image,  widget: image, required: false }
+      
 
