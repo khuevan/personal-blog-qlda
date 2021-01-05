@@ -7,4 +7,4 @@ cover: ../assets/photo-1507124484497-b7f446e65519-cover.jpg
 ---
 kheuvan
 
-![](../assets/facial.jpg)
+![](./assets/facial.jpg)
