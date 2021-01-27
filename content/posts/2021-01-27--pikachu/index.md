@@ -4,8 +4,8 @@ subTitle: Lần đầu được pikachu bắt
 category: Chuyện buồn
 cover: tải-xuống.jpg
 ---
-Hôm nay 2 thằng không đội mũ ra đường
+Hôm nay 2 thằng đường
 
-800k =((
+mất 800k =((
 
 ![](tải-xuống.jpg)
