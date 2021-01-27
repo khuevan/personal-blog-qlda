@@ -2,16 +2,20 @@
 title: About
 ---
 
-This is a demo site of the [PersonalBlog](https://github.com/khuevan/personal-blog-qlda) GatsbyJS starter.
+Đây là Blog của group  [Anti Cuộc Đời](https://www.facebook.com/groups/antilife).
 
 
-### Bui Xuan Thien
+### Về Group
+	
+	Được lập năm 2020
 
-### Nguyen Thanh Dat
+### Tên
 
-### Bui Van Sy
+	Anti Cuộc Đời
 
-### Nguyen Dang Khue Van
+### Mô tả
+
+	Hội những con người anti cuộc đời
 
 
 
