@@ -1,6 +1,6 @@
 ---
-title: Pikachu
-subTitle: Lần đầu được pikachu bắt
+title: Buồn 1
+subTitle: Lần đầu của 2 bạn
 category: Chuyện buồn
 cover: tải-xuống.jpg
 ---
@@ -8,4 +8,4 @@ Hôm nay 2 thằng đường
 
 mất 800k =((
 
-![](tải-xuống.jpg)
+![](tải-xuống-1-.jpg)
