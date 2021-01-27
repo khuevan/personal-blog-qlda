@@ -51,12 +51,12 @@ const styles = theme => ({
 const StackIcons = props => {
   const { classes } = props;
 
-  const items = [
-    { name: "gatsby", url: "https://www.gatsbyjs.org/", comp: GatsbyIcon },
-    { name: "react", url: "https://reactjs.org/", comp: ReactIcon },
-    { name: "jss", url: "http://cssinjs.org/", comp: JssIcon },
-    { name: "netlify", url: "https://www.netlify.com/", comp: NetlifyIcon }
-  ];
+  // const items = [
+  //   { name: "gatsby", url: "https://www.gatsbyjs.org/", comp: GatsbyIcon },
+  //   { name: "react", url: "https://reactjs.org/", comp: ReactIcon },
+  //   { name: "jss", url: "http://cssinjs.org/", comp: JssIcon },
+  //   { name: "netlify", url: "https://www.netlify.com/", comp: NetlifyIcon }
+  // ];
 
   return (
     <div className={classes.stack}>
