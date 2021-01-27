@@ -34,29 +34,12 @@ module.exports = {
     description: config.siteDescription,
     siteUrl: config.siteUrl,
     pathPrefix: config.pathPrefix,
-    algolia: {
-      appId: process.env.ALGOLIA_APP_ID ? process.env.ALGOLIA_APP_ID : "AX8MEH1PU6",
-      searchOnlyApiKey: process.env.ALGOLIA_SEARCH_ONLY_API_KEY
-        ? process.env.ALGOLIA_SEARCH_ONLY_API_KEY
-        : "c69660f1770a48cedf79b944cb582123",
-      indexName: process.env.ALGOLIA_INDEX_NAME ? process.env.ALGOLIA_INDEX_NAME : "personal-blog-qlda"
-    },
     facebook: {
       appId: process.env.FB_APP_ID ? process.env.FB_APP_ID : "800280153857612"
     }
   },
   plugins: [
     `gatsby-plugin-react-next`,
-    {
-      resolve: `gatsby-plugin-algolia`,
-      options: {
-        appId: process.env.ALGOLIA_APP_ID ? process.env.ALGOLIA_APP_ID : "AX8MEH1PU6",
-        apiKey: process.env.ALGOLIA_ADMIN_API_KEY ? process.env.ALGOLIA_ADMIN_API_KEY : "6327c3632b8ee1a329ef9da93c4b6258",
-        indexName: process.env.ALGOLIA_INDEX_NAME ? process.env.ALGOLIA_INDEX_NAME : "personal-blog-qlda",
-        queries,
-        chunkSize: 10000 // default: 1000
-      }
-    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
