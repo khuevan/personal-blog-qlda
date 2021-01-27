@@ -9,10 +9,10 @@ module.exports = {
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
-  authorName: "AntiL Gruop",
+  authorName: "AntiL Group",
   authorTwitterAccount: "none",
   // info
-  infoTitle: "AntiL Gruop",
+  infoTitle: "AntiL Group",
   infoTitleNote: "Blog anti đời",
   // manifest.json
   manifestName: "AntiLifelBlog - blog anti cuộc đời",
